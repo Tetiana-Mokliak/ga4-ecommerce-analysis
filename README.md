@@ -84,3 +84,5 @@ SQL analysis of GA4 e-commerce data in BigQuery: product funnel, ABC segmentatio
   - `purchase / view_item`,
   - `purchase / add_to_cart`;
 - товари сегментовано за поведінковими характеристиками та рівнем конверсії.
+
+  ![Product Funnel Analysis](Product Funnel Analysis.png)
