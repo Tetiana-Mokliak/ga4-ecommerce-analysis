@@ -55,4 +55,4 @@ SQL analysis of GA4 e-commerce data in BigQuery: product funnel, ABC segmentatio
 - сформовано пари товарів через `self join` таблиці;
 - підраховано кількість спільних покупок для кожної пари товарів;
 - для аналізу залишено лише комбінації, що зустрічаються більше 5 разів.
-
+![Basket Analysis](Basket.png)
